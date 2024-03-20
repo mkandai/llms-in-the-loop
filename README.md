@@ -5,7 +5,7 @@
 Below is the tree structure of the project along with a description of each module:
 
 ```
-DS_LAB
+
 │
 ├── data # Directory for saving data used in the notebooks
 │
