@@ -1,0 +1,52 @@
+{
+    "0": {
+        "query_text": "Stratford ,",
+        "reference_text": "Oklahoma",
+        "answer": "a district in the East End of London ,"
+    },
+    "1": {
+        "query_text": "Anders Behring",
+        "reference_text": "Breivik",
+        "answer": "Breivik"
+    },
+    "2": {
+        "query_text": "'' The World as Best as I Remember",
+        "reference_text": "It , Volume Two '' ( 1992 )",
+        "answer": "It ''"
+    },
+    "3": {
+        "query_text": "24 Apr \u2013",
+        "reference_text": "Heinrich Himmler",
+        "answer": "2008 \u2013"
+    },
+    "4": {
+        "query_text": "`` Flight of Icarus ''",
+        "reference_text": "( Tierra Santa )",
+        "answer": "is the third track on the 1983 studio album Piece of Mind by the British heavy metal band Iron Maiden."
+    },
+    "5": {
+        "query_text": "Bath and North",
+        "reference_text": "East Somerset",
+        "answer": "East Somerset"
+    },
+    "6": {
+        "query_text": "Communes of the",
+        "reference_text": "Marne department",
+        "answer": "Canton of Geneva"
+    },
+    "7": {
+        "query_text": "1970 \u2014 did",
+        "reference_text": "not compete",
+        "answer": "not enter"
+    },
+    "8": {
+        "query_text": "In Djibouti city , for instance , average",
+        "reference_text": "afternoon highs range from in April .",
+        "answer": "temperatures range between 20 and 35 degrees Celsius."
+    },
+    "9": {
+        "query_text": "Prince Valdemar",
+        "reference_text": "of Denmark",
+        "answer": "of Denmark"
+    }
+}

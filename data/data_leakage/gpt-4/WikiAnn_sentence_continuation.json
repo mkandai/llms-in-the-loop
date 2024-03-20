@@ -1,0 +1,52 @@
+{
+    "vls": {
+        "query_text": "Klimop (",
+        "reference_text": "\u00d4ostkamp )",
+        "answer": "Hedera)"
+    },
+    "ceb": {
+        "query_text": "Noruwega nag-angkon sa",
+        "reference_text": "maong dapit .",
+        "answer": "iyanhong mga teritoryo."
+    },
+    "ar": {
+        "query_text": "\u0631\u0648\u0628\u0631\u062a \u062f\u064a",
+        "reference_text": "\u0646\u064a\u0631\u0648 2",
+        "answer": "\u0646\u064a\u0631\u0648"
+    },
+    "id": {
+        "query_text": "Kabupaten Manggarai (",
+        "reference_text": "14-09-2015 ) ,",
+        "answer": "Indonesian: Kabupaten Manggarai) is a regency in East Nusa Tenggara province of Indonesia."
+    },
+    "hak": {
+        "query_text": "\u00c2-l\u00ee-s\u00e2n Koet-k\u00e2",
+        "reference_text": "S\u00eam-l\u00ecm Y\u00f9-lo\u030dk-kh\u00ee",
+        "answer": "is a Taiwanese Hokkien television series."
+    },
+    "gan": {
+        "query_text": "' '' \u826e\u81ea\u4faf \u7ad9",
+        "reference_text": "'' '\uff08Gants \u502b\u6566\u5730\u9435\u55f0",
+        "answer": "'' \u826e\u81ea\u4faf \u7ad9 \u662f \u4e2d\u56fd\u94c1\u8def\u54c8\u5c14\u6ee8\u5c40\u96c6\u56e2\u6709\u9650\u516c\u53f8 \u4e0b\u5c5e\u7684\u4e00\u4e2a\u8f66\u7ad9\uff0c\u4f4d\u4e8e\u4e2d\u56fd\u9ed1\u9f99\u6c5f\u7701\u54c8\u5c14\u6ee8\u5e02\u9053\u91cc\u533a\uff0c\u6210\u7acb\u4e8e 1903\u5e74\uff0c\u8f66\u7ad9\u7b49\u7ea7\u4e3a\u56db\u7b49\u7ad9\u3002"
+    },
+    "cy": {
+        "query_text": "Taith Bryn",
+        "reference_text": "Euryn .",
+        "answer": "Terfel yn America"
+    },
+    "cdo": {
+        "query_text": "Li\u00e8ng-h\u0103k-gu\u00f3k : D\u1e73\u0306ng-\u00f9ng",
+        "reference_text": "Ng\u1e73\u0304-ngi\u00f2ng N\u012dk",
+        "answer": "Li\u00e8ng-h\u0103k-gu\u00f3k : D\u1e73\u0306ng-\u00f9ng"
+    },
+    "zh-classical": {
+        "query_text": "\u4e00 \ufe30 \u7d10",
+        "reference_text": "\u7d04 \u5e02 \uff1b",
+        "answer": "\u7d04 \u662f \u7f8e\u570b \u7684 \u4e00 \u500b \u5dde \uff0c \u4f4d \u65bc \u6771 \u5317 \u90e8 \uff0c \u7531 \u9577 \u5cf6 \u3001 \u66fc \u54c8 \u9813 \u3001 \u65af \u5854 \u767b \u5cf6 \u3001 \u5e03 \u9b6f \u514b \u6797 \u548c \u7687 \u540e \u5340 \u7d44 \u6210 \uff0c \u662f \u7f8e\u570b \u6700 \u5927 \u7684 \u57ce \u5e02 \uff0c \u4e5f \u662f \u5168 \u7403 \u6700 \u91cd \u8981 \u7684 \u7d93 \u6fdf \u3001 \u91d1 \u878d \u548c \u6587 \u5316 \u4e2d \u5fc3 \u4e4b \u4e00 \u3002"
+    },
+    "sk": {
+        "query_text": "Do seniorsk\u00e9ho mu\u017estva FC Nitra sa",
+        "reference_text": "dostal ako 18 ro\u010dn\u00fd .",
+        "answer": "vr\u00e1til v roku 2006."
+    }
+}

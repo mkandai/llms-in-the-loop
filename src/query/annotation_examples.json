@@ -1,0 +1,39 @@
+{"Bambara":  {
+  "example1": {
+    "input": [ "Ani", "fana", ",", "kalataw", "ɲɛnabɔli", "cakɛda", "kelen", "pe", "bilali", "nata", "telin", "sen", "kan", "." ],
+    "output": [
+      ["Ani", "O"],
+      ["fana", "O"],
+      [",", "O"],
+      ["kalataw", "O"],
+      ["ɲɛnabɔli", "O"],
+      ["cakɛda", "O"],
+      ["kelen", "O"],
+      ["pe", "O"],
+      ["bilali", "O"],
+      ["nata", "O"],
+      ["telin", "O"],
+      ["sen", "O"],
+      ["kan", "O"],
+      [".", "O"]
+    ]
+  },
+  "example2": {
+    "input": [ "Wa", ",", "a", "fadenkɛ", "Gasipi", "ye", "kannabila", "sɔrɔ", "a", "don", "kelen", "." ],
+    "output": [
+      ["Wa", "O"],
+      [",", "O"],
+      ["a", "O"],
+      ["fadenkɛ", "O"],
+      ["Gasipi", "B-PER"],
+      ["ye", "O"],
+      ["kannabila", "O"],
+      ["sɔrɔ", "O"],
+      ["a", "O"],
+      ["don", "O"],
+      ["kelen", "O"],
+      [".", "O"]
+    ]
+  }
+}
+}

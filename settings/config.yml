@@ -1,0 +1,73 @@
+dataset: masakhane/masakhaner2
+model_name: Davlan/afro-xlmr-mini
+label_mapping:
+  0: O
+  1: B-PER
+  2: I-PER
+  3: B-ORG
+  4: I-ORG
+  5: B-LOC
+  6: I-LOC
+  7: B-DATE
+  8: I-DATE
+languages_list: [ bam, bbj, ewe, fon, hau, ibo, kin, lug, luo, mos, nya, pcm, sna, swa, tsn, twi, wol, xho, yor, zul ]
+languages_names:
+  bam: Bambara
+  bbj: Ghomala'
+  ewe: Ewe
+  fon: Fon
+  hau: Hausa
+  ibo: Igbo
+  kin: Kinyarwanda
+  lug: Luganda
+  luo: Luo (Kenya and Tanzania)
+  mos: Mossi
+  nya: Chichewa
+  pcm: Nigerian Pidgin
+  sna: Shona
+  swa: Swahili
+  tsn: Tswana
+  twi: Twi
+  wol: Wolof
+  xho: Xhosa
+  yor: Yoruba
+  zul: Zulu
+languages_max_tokens:  # Maximum number of tokens (see notebooks/00-token_counts.ipynb)
+  yor: 235
+  fon: 209
+  kin: 177
+  swa: 173
+  bam: 164
+  mos: 164
+  twi: 161
+  ewe: 155
+  wol: 151
+  pcm: 149
+  luo: 146
+  ibo: 145
+  zul: 139
+  nya: 138
+  hau: 137
+  lug: 137
+  tsn: 137
+  sna: 133
+  xho: 125
+  bbj: 120
+tokenizer_settings:
+  padding_value: 0
+train_settings:
+  batch_size: 16
+  shuffle: True
+  initial_train_size: 0.05    # Percentage of data that will be used for initial training
+  pseudo_unlabeled_size: 0.9  # Percentage of data that will be used for active learning part
+  label_fraction: 0.05        # Percentage of data from active learning part that will be annotated
+  epochs: 50
+  lr: 5e-5
+active_learning_settings:
+  num_rounds: 5               # Number of active learning rounds to run
+foundation_model:
+  model: gpt-4-0125-preview
+  temperature: 0.1
+gpu_settings:
+  default_device: 'cuda:7'    # Default gpu to use
+  device_indexes: []          # Indexes of the GPUs to use 

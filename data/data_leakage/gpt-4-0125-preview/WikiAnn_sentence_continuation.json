@@ -1,0 +1,52 @@
+{
+    "vls": {
+        "query_text": "Klimop (",
+        "reference_text": "\u00d4ostkamp )",
+        "answer": "Hedera)"
+    },
+    "ceb": {
+        "query_text": "Noruwega nag-angkon sa",
+        "reference_text": "maong dapit .",
+        "answer": "iho sa Svalbard sukad pa sa 1920."
+    },
+    "ar": {
+        "query_text": "\u0631\u0648\u0628\u0631\u062a \u062f\u064a",
+        "reference_text": "\u0646\u064a\u0631\u0648 2",
+        "answer": "\u0646\u064a\u0631\u0648"
+    },
+    "id": {
+        "query_text": "Kabupaten Manggarai (",
+        "reference_text": "14-09-2015 ) ,",
+        "answer": "Nusa Tenggara Timur)"
+    },
+    "hak": {
+        "query_text": "\u00c2-l\u00ee-s\u00e2n Koet-k\u00e2",
+        "reference_text": "S\u00eam-l\u00ecm Y\u00f9-lo\u030dk-kh\u00ee",
+        "answer": "th\u00e0i-kok"
+    },
+    "gan": {
+        "query_text": "' '' \u826e\u81ea\u4faf \u7ad9",
+        "reference_text": "'' '\uff08Gants \u502b\u6566\u5730\u9435\u55f0",
+        "answer": "\u5728 \u5317\u4eac\u5e02 \u4e1c\u57ce\u533a \uff0c \u662f \u4e00\u5ea7 \u5317\u4eac\u5730\u94c1 2\u53f7\u7ebf \u7684 \u5730\u94c1\u7ad9 \u3002"
+    },
+    "cy": {
+        "query_text": "Taith Bryn",
+        "reference_text": "Euryn .",
+        "answer": "Terfynol"
+    },
+    "cdo": {
+        "query_text": "Li\u00e8ng-h\u0103k-gu\u00f3k : D\u1e73\u0306ng-\u00f9ng",
+        "reference_text": "Ng\u1e73\u0304-ngi\u00f2ng N\u012dk",
+        "answer": "d\u00e2ng-ci\u016d"
+    },
+    "zh-classical": {
+        "query_text": "\u4e00 \ufe30 \u7d10",
+        "reference_text": "\u7d04 \u5e02 \uff1b",
+        "answer": "\u7d04\u514b\u6642\u5831"
+    },
+    "sk": {
+        "query_text": "Do seniorsk\u00e9ho mu\u017estva FC Nitra sa",
+        "reference_text": "dostal ako 18 ro\u010dn\u00fd .",
+        "answer": "prebojoval v roku 2011."
+    }
+}

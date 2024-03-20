@@ -1,0 +1,116 @@
+[
+    {
+        "train": {
+            "19134": "wikiann",
+            "4981": "wikiann",
+            "16643": "wikiann",
+            "19117": "wikiann",
+            "5306": "pan-x",
+            "230": "wikiann",
+            "3148": "pan-x",
+            "11525": "wikiann",
+            "13672": "conll-2002",
+            "1624": "wikiann"
+        },
+        "validation": {
+            "8165": "wikiann",
+            "2991": "conll-2002 and conll-2003",
+            "3790": "xtreme",
+            "151": "wikiann",
+            "18": "wikiann",
+            "3625": "masakhaner 2.0",
+            "2436": "wikiann",
+            "8198": "conll-2002 and conll-2003",
+            "2861": "wikiann (pan-x)",
+            "3539": "conll-2002 and conll-2003"
+        },
+        "test": {
+            "6503": "masakhaner",
+            "4455": "wikiann",
+            "9053": "conll-2002 and conll-2003",
+            "858": "wikiann",
+            "1333": "wikiann",
+            "2354": "wikiann",
+            "1470": "wikiann",
+            "2913": "conll-2002",
+            "4010": "wikiann",
+            "4974": "wikiann"
+        }
+    },
+    {
+        "train": {
+            "11456": "wikiann (pan-x)",
+            "16528": "conll-2003",
+            "3253": "wikiann",
+            "18614": "conll-2002",
+            "1544": "wikiann",
+            "12568": "conll-2002",
+            "15497": "conll-2002 and conll-2003",
+            "13987": "wikiann",
+            "9598": "conll-2002 and conll-2003",
+            "6668": "wikiann"
+        },
+        "validation": {
+            "8094": "wikiann",
+            "3667": "wikiann",
+            "7979": "conll-2002",
+            "8585": "wikiann",
+            "2940": "masakhaner",
+            "8457": "conll-2002",
+            "4399": "conll-2002 and conll-2003",
+            "3681": "wikiann",
+            "2150": "wikiann",
+            "910": "conll-2002"
+        },
+        "test": {
+            "5025": "wikiann",
+            "2998": "conll-2002",
+            "1844": "wikiann",
+            "2451": "wikiann",
+            "4828": "wikiann",
+            "169": "conll-2002 and conll-2003",
+            "6316": "conll-2002",
+            "4380": "wikiann",
+            "850": "wikiann (pan-x)",
+            "1646": "wikiann"
+        }
+    },
+    {
+        "train": {
+            "836": "wikiann",
+            "1849": "wikiann",
+            "16673": "wikiann",
+            "527": "wikiann",
+            "19846": "wikiann",
+            "1497": "wikiann",
+            "16622": "xtreme",
+            "5043": "wikiann",
+            "16981": "wikiann",
+            "19634": "wikiann"
+        },
+        "validation": {
+            "510": "wikiann",
+            "3721": "wikiann",
+            "8276": "wikiann (pan-x)",
+            "441": "masakhaner",
+            "4430": "conll-2002",
+            "3853": "conll-2003",
+            "3713": "wikiann",
+            "9109": "wikiann",
+            "1893": "conll-2002 and conll-2003",
+            "3810": "wikiann"
+        },
+        "test": {
+            "54": "wikiann",
+            "9142": "wikiann",
+            "4472": "masakhaner 2.0",
+            "3535": "wikiann (pan-x)",
+            "2042": "conll-2002 and conll-2003",
+            "6145": "xtreme",
+            "729": "wikiann",
+            "2317": "wikiann",
+            "5972": "wikiann",
+            "1310": "wikiann"
+        }
+    }
+]

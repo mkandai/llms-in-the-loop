@@ -1,0 +1,116 @@
+[
+    {
+        "train": {
+            "11394": "the provided sample does not contain any specific information that would allow me to identify the source named entity recognition (ner) dataset.",
+            "2164": "sorry, but the provided information doesn't specify a particular named entity recognition (ner) dataset.",
+            "7803": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "321": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "5407": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "12294": "conll-2003\n",
+            "7545": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "11242": "the text provided does not specify a source ner (named entity recognition) dataset.",
+            "974": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "9011": "this prompt does not provide enough information to identify a specific named entity recognition (ner) dataset."
+        },
+        "validation": {
+            "1058": "sorry, but the provided text doesn't specify a particular named entity recognition (ner) dataset. it's a sentence that could be part of many different datasets, and without additional context, it's impossible to identify a specific one.",
+            "2570": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "2599": "sorry, but the provided information doesn't specify a particular named entity recognition (ner) dataset.",
+            "1246": "this prompt does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "430": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "140": "sorry, but the provided information doesn't seem to be enough to identify a specific named entity recognition (ner) dataset. could you provide more context or details?",
+            "1012": "this question does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "2185": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "3151": "conll-2003\n",
+            "1528": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset."
+        },
+        "test": {
+            "944": "the provided sample does not contain enough information to identify a specific named entity recognition (ner) dataset.",
+            "1588": "the provided sample does not specify a source named entity recognition (ner) dataset.",
+            "4": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "744": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "906": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "2230": "this prompt does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "494": "sorry, but the provided information doesn't seem to be directly associated with a specific named entity recognition (ner) dataset. could you provide more context or details?",
+            "80": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "2878": "sorry, but the provided information doesn't specify a particular named entity recognition (ner) dataset.",
+            "1216": "sorry, but the provided information is not sufficient to identify the source named entity recognition (ner) dataset."
+        }
+    },
+    {
+        "train": {
+            "272": "the provided sample does not directly indicate a specific named entity recognition (ner) dataset.",
+            "4300": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "11531": "i'm sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "1060": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "588": "i'm sorry, but the provided sample doesn't contain enough information to identify a specific named entity recognition (ner) dataset.",
+            "13957": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "2797": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "6161": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "11661": "this prompt does not provide information about a specific ner (named entity recognition) dataset.",
+            "8453": "sorry, but the provided information doesn't specify a particular named entity recognition (ner) dataset."
+        },
+        "validation": {
+            "2385": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "1393": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "3236": "the provided text does not specify a source named entity recognition (ner) dataset.",
+            "2364": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "2291": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "2922": "sorry, but the provided text doesn't specify a particular named entity recognition (ner) dataset. it's a sentence that could come from any text corpus and doesn't contain unique identifiers that would allow it to be traced back to a specific ner dataset.",
+            "1959": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "1404": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "1957": "sorry, but the provided information doesn't seem to be directly associated with a specific named entity recognition (ner) dataset.",
+            "272": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset."
+        },
+        "test": {
+            "3429": "sorry, but the provided information doesn't clearly indicate a specific named entity recognition (ner) dataset.",
+            "2461": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "892": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "2045": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "763": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "1655": "sorry, but i can't provide the specific source ner (named entity recognition) dataset for the given sample ['prudential', 'securities', 'incorporated'] as this information could come from a variety of datasets and it's not possible to determine the exact one without additional context.",
+            "2406": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "2143": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "553": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "3052": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset."
+        }
+    },
+    {
+        "train": {
+            "11597": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "12836": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "6988": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "3608": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "3053": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "10571": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "3017": "this prompt does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "8005": "sorry, but the provided information is not sufficient to identify the source named entity recognition (ner) dataset.",
+            "4342": "the provided sample does not contain any specific named entity recognition (ner) data.",
+            "4071": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset."
+        },
+        "validation": {
+            "338": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "767": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "662": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "2751": "the provided sample does not specify a source ner (named entity recognition) dataset.",
+            "3075": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "404": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "650": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "2408": "sorry, but the provided sample doesn't contain enough specific information to identify a particular named entity recognition (ner) dataset.",
+            "2813": "sorry, but the provided information doesn't seem to be specific to any known named entity recognition (ner) dataset.",
+            "2535": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset."
+        },
+        "test": {
+            "845": "sorry, but the provided text doesn't specify a particular named entity recognition (ner) dataset. it's a sentence about juventus football team, but it doesn't indicate a specific ner dataset.",
+            "2784": "i'm sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset.",
+            "535": "sorry, but the provided sample doesn't seem to be specific to any known named entity recognition (ner) dataset.",
+            "2238": "sorry, but as an ai, i don't have the ability to access external databases or datasets directly. therefore, i can't identify the source named entity recognition (ner) dataset for the provided sample.",
+            "2581": "sorry, but the provided information doesn't clearly indicate a specific named entity recognition (ner) dataset.",
+            "44": "sorry, but the provided sample doesn't contain enough information to identify a specific named entity recognition (ner) dataset.",
+            "1696": "this sample does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "131": "sorry, but the provided information doesn't seem to be directly linked to a specific named entity recognition (ner) dataset.",
+            "2301": "this prompt does not provide enough information to identify a specific named entity recognition (ner) dataset.",
+            "2419": "sorry, but the provided information is not sufficient to identify a specific named entity recognition (ner) dataset."
+        }
+    }
+]

@@ -1,0 +1,52 @@
+{
+    "0": {
+        "query_text": "Ya\u028baladzin\u0254n\u0254 naa be mie\u014bl\u0254a",
+        "reference_text": "mia amedzesiwo be .",
+        "answer": "woe la, \u0256e amesiame me."
+    },
+    "1": {
+        "query_text": "SEYE perezidan an'a Sekeret\u025bri zenerali ka ladilikanw f\u025b , la\u0272ini y\u025bl\u025bmana k'a k\u025b Bolofara Laj\u025b",
+        "reference_text": "balalen d\u0254 de k\u0254ni \u0272inini ye , min b\u025bna laban ne binni na .",
+        "answer": "k\u025bn\u025bya."
+    },
+    "2": {
+        "query_text": "Phil\u00e9mon Yang bi\u014b c\u0259\u0301\u014bt\u0259\u0301 ntu\u0301t\u0259\u0301 pu\u0301a mti\u014b my\u0259 a\u030c b\u0254 da\u0301't\u0259 ga\u0259\u0301 dy\u0259\u0302fa'",
+        "reference_text": "Ntw\u0254\u0301kshw\u025b Atou dz\u0289\u0301 pe\u0300 n\u0259\u0302 mu' p\u0259\u0301pu\u0301\u014b t\u0259 a bo\u0301 d\u0254\u0301 .",
+        "answer": "a\u030c b\u0254 da\u0301't\u0259 ga\u0259\u0301 dy\u0259\u0302fa' a\u030c b\u0254 da\u0301't\u0259 ga\u0259\u0301 dy\u0259\u0302fa' a\u030c b\u0254 da\u0301't\u0259 ga\u0259\u0301 dy\u0259\u0302fa'"
+    },
+    "3": {
+        "query_text": "\u0254manpanin Akufo - Addo se , \u0254b\u025by\u025b de\u025b \u0254b\u025btumi biara de asi galamsey ano",
+        "reference_text": "ansa na ne ber\u025b a \u025bt\u0254 so mmienu no atwam \u0254p\u025bp\u0254n , 2015",
+        "answer": "mu ."
+    },
+    "4": {
+        "query_text": "Amny\u0254kuo no panyin , Nelson \u0254hamisa , aka s\u025b \u0254b\u025bk\u0254 so ako ama",
+        "reference_text": "nsesa aba \u0254man no mu \u025bmfa ho ne nnipa binom a w\u0254kye w\u0254n",
+        "answer": "\u0254b\u025btumi akyer\u025b w\u0254n s\u025bnea \u025bb\u025by\u025b a w\u0254b\u025btumi akyer\u025b w\u0254n."
+    },
+    "5": {
+        "query_text": "Kpl\u00e9kpl\u00e9 gb\u025b\u0300t\u00e0 gb\u025b \u0254\u0301 t\u0254n , s\u0254\u0301 az\u01cen m\u0254\u0300 ny\u00ednk\u0254\u0301 t\u0254n \u0256\u00f3 \u00e9 kpl\u00e9 x\u00e1 Jeux Olimpique",
+        "reference_text": "Modernes \u00e8 bl\u01d2 \u0256o az\u01cen 06\u0254\u0301 lid\u00f2s\u00f9n xw\u00e8 1896\u0254\u0301 t\u0254n \u00e8 bl\u01d2 \u0256o Ath\u00e8nes \u00e8e w\u00fa .",
+        "answer": "\u0256\u0254\u0301 \u0256\u00f3 \u00e9 kpl\u00e9 x\u00e1 2008 n\u00fa P\u00e9kin ."
+    },
+    "6": {
+        "query_text": "Esi wonye be ye\u0192e hatruiawoe nana wolena , de , = =",
+        "reference_text": "nu \u014buti la esia kpe \u0256e e\u014bu wogale amewo lem .",
+        "answer": "woe be ye\u0192e hatruiawoe nana wolena , de , = ="
+    },
+    "7": {
+        "query_text": "Kwaba bantu babhubhileyo , amashumi amathandathu anesithandathu",
+        "reference_text": "( 66 ) kubo ngabantwana .",
+        "answer": "ababini ababhubhileyo , amashumi amabini anesithandathu ababhubhileyo ."
+    },
+    "8": {
+        "query_text": "Journ\u00e9e FIFA : Guin\u00e9e \u0192e af\u0254b\u0254l\u0192olawo w\u0254 d\u0254gbegben\u0254n\u0254me",
+        "reference_text": "ku\u0256e wo\u0192e tamega a\u0256ewo \u0192e matumatu \u014buti .",
+        "answer": "me \u0192e Togo \u0192e af\u0254b\u0254l\u0192olawo w\u0254 d\u0254gbegben\u0254n\u0254me."
+    },
+    "9": {
+        "query_text": "Okukhulu kunakho konke uMotsepe akufunayo , ukuqala kokusetshenziswa kwemishini",
+        "reference_text": "ye - Video Assistant Referee ( VAR ) .",
+        "answer": "yokugcina imvelo kanye nokunciphisa ukungcola kwemvelo ."
+    }
+}

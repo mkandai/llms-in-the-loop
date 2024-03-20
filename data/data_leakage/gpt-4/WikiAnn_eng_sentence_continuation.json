@@ -1,0 +1,52 @@
+{
+    "0": {
+        "query_text": "Stratford ,",
+        "reference_text": "Oklahoma",
+        "answer": "Ontario"
+    },
+    "1": {
+        "query_text": "Anders Behring",
+        "reference_text": "Breivik",
+        "answer": "Breivik"
+    },
+    "2": {
+        "query_text": "'' The World as Best as I Remember",
+        "reference_text": "It , Volume Two '' ( 1992 )",
+        "answer": "It '' is a memoir by Canadian author and broadcaster Stuart McLean."
+    },
+    "3": {
+        "query_text": "24 Apr \u2013",
+        "reference_text": "Heinrich Himmler",
+        "answer": "2005 - The first ever video is uploaded to YouTube."
+    },
+    "4": {
+        "query_text": "`` Flight of Icarus ''",
+        "reference_text": "( Tierra Santa )",
+        "answer": "is a song by the English heavy metal band Iron Maiden. It was their eighth single, the first from their fourth studio album, Piece of Mind, and their first in the United States, where it was one of their few with substantial airplay, peaking at No. 8 in the Mainstream Rock chart. It was a lesser success in the UK, peaking at No. 11 in the UK Singles Chart."
+    },
+    "5": {
+        "query_text": "Bath and North",
+        "reference_text": "East Somerset",
+        "answer": "East Somerset"
+    },
+    "6": {
+        "query_text": "Communes of the",
+        "reference_text": "Marne department",
+        "answer": "Ain department"
+    },
+    "7": {
+        "query_text": "1970 \u2014 did",
+        "reference_text": "not compete",
+        "answer": "not compete"
+    },
+    "8": {
+        "query_text": "In Djibouti city , for instance , average",
+        "reference_text": "afternoon highs range from in April .",
+        "answer": "temperatures range from 27 to 33 degrees Celsius."
+    },
+    "9": {
+        "query_text": "Prince Valdemar",
+        "reference_text": "of Denmark",
+        "answer": "of Denmark"
+    }
+}
