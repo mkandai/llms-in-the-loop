@@ -68,3 +68,9 @@ For more details, see `04.1-sampling_for_foundation_model_selection.ipynb`.
 ### 🧪 Experiments
 
 Folder `experiments` contains various experiment runs with different settings.
+
+## ✍️ Contributors
+
+- Nataliia Kholodna - [@nataliyakholodna](https://github.com/nataliyakholodna/)
+- Mohammad (MK) Khodadadi - [@mkandai](https://github.com/mkandai/)
+- Nurullah Gumus - [@silverdevelopper](https://github.com/silverdevelopper)
